@@ -1,0 +1,8 @@
+.jumbotron {
+	background-image: url("../img/splash_danielle.png");
+	background-size: cover;
+}
+
+.jumbotron p {
+	color: navy;
+}
